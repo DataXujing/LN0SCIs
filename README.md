@@ -1,7 +1,7 @@
 
 [![CRAN](https://img.shields.io/cran/v/devtools.svg)]( https://CRAN.R-project.org/package=LN0SCIs )
 [![PyPI](https://img.shields.io/pypi/v/nine.svg)](https://pypi.python.org/pypi/LN0SCIs)
-# LN0SCIs   <a href="https://github.com/DataXujing/"><img src="vignettes/pic/log.png" align="right" alt="logo" height="200" width="350" /></a>
+# LN0SCIs   <a href="https://github.com/DataXujing/"><img src="pic/log.png" align="right" alt="logo" height="200" width="350" /></a>
 
 
 ## Introduction
