@@ -1,0 +1,10 @@
+LN0SCIs.py
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+LN0SCIs.egg-info/PKG-INFO
+LN0SCIs.egg-info/SOURCES.txt
+LN0SCIs.egg-info/dependency_links.txt
+LN0SCIs.egg-info/requires.txt
+LN0SCIs.egg-info/top_level.txt
