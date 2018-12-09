@@ -13,7 +13,7 @@
 #' @param n The sample size of the mixture distributions,must be an integer vector.
 #' @param p The zero probability of the mixture distribution,it has the same length to the \strong{n} params.
 #' @param mu The mean of the non-zero samples,which after log-transformation.
-#' @param sigma The variance of the non-zero samples,which after log-transformation.
+#' @param sigma The standard deviation of the non-zero samples,which after log-transformation.
 #' @param N The number of independent generated data sets.
 #' @param C2 Matrix C,You can refer to the paper of Xu et al. for specific forms.
 #' @param alpha The confidence level,it always set \emph{alpha=0.5}

@@ -16,7 +16,7 @@ FGH(n,p,mu,sigma,N,C2=rbind(c(-1,1,0),c(-1,0,1),c(0,-1,1)),alpha=0.05)
 
 \item{mu}{The mean of the non-zero samples,which after log-transformation.}
 
-\item{sigma}{The variance of the non-zero samples,which after log-transformation.}
+\item{sigma}{The standard deviation of the non-zero samples,which after log-transformation.}
 
 \item{C2}{Matrix C,You can refer to the paper of Xu et al. for specific forms.}
 
